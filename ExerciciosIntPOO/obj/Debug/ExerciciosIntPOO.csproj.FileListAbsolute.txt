@@ -1,0 +1,16 @@
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosIntPOO\bin\Debug\ExerciciosIntPOO.exe.config
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosIntPOO\bin\Debug\ExerciciosIntPOO.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosIntPOO\bin\Debug\ExerciciosIntPOO.pdb
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosIntPOO\obj\Debug\ExerciciosIntPOO.csproj.AssemblyReference.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosIntPOO\obj\Debug\ExerciciosIntPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosIntPOO\obj\Debug\ExerciciosIntPOO.csproj.CoreCompileInputs.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosIntPOO\obj\Debug\ExerciciosIntPOO.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosIntPOO\obj\Debug\ExerciciosIntPOO.pdb
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosIntPOO\bin\Debug\ExerciciosIntPOO.exe.config
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosIntPOO\bin\Debug\ExerciciosIntPOO.exe
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosIntPOO\bin\Debug\ExerciciosIntPOO.pdb
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosIntPOO\obj\Debug\ExerciciosIntPOO.csproj.AssemblyReference.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosIntPOO\obj\Debug\ExerciciosIntPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosIntPOO\obj\Debug\ExerciciosIntPOO.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosIntPOO\obj\Debug\ExerciciosIntPOO.exe
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosIntPOO\obj\Debug\ExerciciosIntPOO.pdb

@@ -1,0 +1,16 @@
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrCondicional\bin\Debug\ExerciciosEstrCondicional.exe.config
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrCondicional\bin\Debug\ExerciciosEstrCondicional.exe
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrCondicional\bin\Debug\ExerciciosEstrCondicional.pdb
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrCondicional\obj\Debug\ExerciciosEstrCondicional.csproj.AssemblyReference.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrCondicional\obj\Debug\ExerciciosEstrCondicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrCondicional\obj\Debug\ExerciciosEstrCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrCondicional\obj\Debug\ExerciciosEstrCondicional.exe
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrCondicional\obj\Debug\ExerciciosEstrCondicional.pdb
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrCondicional\bin\Debug\ExerciciosEstrCondicional.exe.config
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrCondicional\bin\Debug\ExerciciosEstrCondicional.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrCondicional\bin\Debug\ExerciciosEstrCondicional.pdb
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrCondicional\obj\Debug\ExerciciosEstrCondicional.csproj.AssemblyReference.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrCondicional\obj\Debug\ExerciciosEstrCondicional.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrCondicional\obj\Debug\ExerciciosEstrCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrCondicional\obj\Debug\ExerciciosEstrCondicional.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrCondicional\obj\Debug\ExerciciosEstrCondicional.pdb

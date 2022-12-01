@@ -1,0 +1,8 @@
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConstrThisSobreEncaps\bin\Debug\ConstrThisSobreEncaps.exe.config
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConstrThisSobreEncaps\bin\Debug\ConstrThisSobreEncaps.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConstrThisSobreEncaps\bin\Debug\ConstrThisSobreEncaps.pdb
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConstrThisSobreEncaps\obj\Debug\ConstrThisSobreEncaps.csproj.AssemblyReference.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConstrThisSobreEncaps\obj\Debug\ConstrThisSobreEncaps.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConstrThisSobreEncaps\obj\Debug\ConstrThisSobreEncaps.csproj.CoreCompileInputs.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConstrThisSobreEncaps\obj\Debug\ConstrThisSobreEncaps.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConstrThisSobreEncaps\obj\Debug\ConstrThisSobreEncaps.pdb

@@ -1,0 +1,8 @@
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe.config
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConsoleCSharp\bin\Debug\ConsoleCSharp.pdb
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConsoleCSharp\obj\Debug\ConsoleCSharp.csproj.AssemblyReference.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConsoleCSharp\obj\Debug\ConsoleCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConsoleCSharp\obj\Debug\ConsoleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConsoleCSharp\obj\Debug\ConsoleCSharp.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ConsoleCSharp\obj\Debug\ConsoleCSharp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExercicioLista\bin\Debug\ExercicioLista.exe.config
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExercicioLista\bin\Debug\ExercicioLista.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExercicioLista\bin\Debug\ExercicioLista.pdb
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExercicioLista\obj\Debug\ExerciciosLista.csproj.AssemblyReference.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExercicioLista\obj\Debug\ExerciciosLista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExercicioLista\obj\Debug\ExerciciosLista.csproj.CoreCompileInputs.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExercicioLista\obj\Debug\ExercicioLista.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExercicioLista\obj\Debug\ExercicioLista.pdb

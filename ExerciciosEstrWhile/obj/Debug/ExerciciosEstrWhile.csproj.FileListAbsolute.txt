@@ -1,0 +1,8 @@
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrWhile\bin\Debug\ExerciciosEstrWhile.exe.config
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrWhile\bin\Debug\ExerciciosEstrWhile.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrWhile\bin\Debug\ExerciciosEstrWhile.pdb
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrWhile\obj\Debug\ExerciciosEstrWhile.csproj.AssemblyReference.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrWhile\obj\Debug\ExerciciosEstrWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrWhile\obj\Debug\ExerciciosEstrWhile.csproj.CoreCompileInputs.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrWhile\obj\Debug\ExerciciosEstrWhile.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrWhile\obj\Debug\ExerciciosEstrWhile.pdb

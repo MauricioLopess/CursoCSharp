@@ -1,0 +1,16 @@
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrFor\bin\Debug\ExerciciosEstrFor.exe.config
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrFor\bin\Debug\ExerciciosEstrFor.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrFor\bin\Debug\ExerciciosEstrFor.pdb
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrFor\obj\Debug\ExerciciosEstrFor.csproj.AssemblyReference.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrFor\obj\Debug\ExerciciosEstrFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrFor\obj\Debug\ExerciciosEstrFor.csproj.CoreCompileInputs.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrFor\obj\Debug\ExerciciosEstrFor.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosEstrFor\obj\Debug\ExerciciosEstrFor.pdb
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrFor\bin\Debug\ExerciciosEstrFor.exe.config
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrFor\bin\Debug\ExerciciosEstrFor.exe
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrFor\bin\Debug\ExerciciosEstrFor.pdb
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrFor\obj\Debug\ExerciciosEstrFor.csproj.AssemblyReference.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrFor\obj\Debug\ExerciciosEstrFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrFor\obj\Debug\ExerciciosEstrFor.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrFor\obj\Debug\ExerciciosEstrFor.exe
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosEstrFor\obj\Debug\ExerciciosEstrFor.pdb

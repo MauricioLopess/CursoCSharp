@@ -1,0 +1,16 @@
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosVetor\bin\Debug\ExerciciosVetor.exe.config
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosVetor\bin\Debug\ExerciciosVetor.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosVetor\bin\Debug\ExerciciosVetor.pdb
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosVetor\obj\Debug\ExerciciosVetor.csproj.AssemblyReference.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosVetor\obj\Debug\ExerciciosVetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosVetor\obj\Debug\ExerciciosVetor.csproj.CoreCompileInputs.cache
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosVetor\obj\Debug\ExerciciosVetor.exe
+C:\Users\Thaila e Mauricio\Documents\mauricio\projetos\vs\Testes\ExerciciosVetor\obj\Debug\ExerciciosVetor.pdb
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosVetor\bin\Debug\ExerciciosVetor.exe.config
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosVetor\bin\Debug\ExerciciosVetor.exe
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosVetor\bin\Debug\ExerciciosVetor.pdb
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosVetor\obj\Debug\ExerciciosVetor.csproj.AssemblyReference.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosVetor\obj\Debug\ExerciciosVetor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosVetor\obj\Debug\ExerciciosVetor.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosVetor\obj\Debug\ExerciciosVetor.exe
+C:\Users\Mauricio Lopes\Documents\projetos\Testes\ExerciciosVetor\obj\Debug\ExerciciosVetor.pdb
