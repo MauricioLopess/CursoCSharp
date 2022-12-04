@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExerciciosEnumEConst.ex03.Entities.Enums
 {
-    enum OrderStatus : int
+    internal enum OrderStatus : int
     {
         PendingPayment, Processing, Shipped, Delivered
     }

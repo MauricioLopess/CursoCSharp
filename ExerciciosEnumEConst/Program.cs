@@ -81,28 +81,25 @@ namespace ExerciciosEnumEConst
             Console.Write("Name: ");
             string cName = Console.ReadLine();
 
-            Console.Write("Email: ");
+            Console.Write("E-mail: ");
             string cEmail = Console.ReadLine();
 
-            Console.Write("Birth date: ");
+            Console.Write("Birth date (DD/MM/YYYY): ");
             DateTime cDate = DateTime.Parse(Console.ReadLine());
-            Client Client = new Client(cName, cEmail, cDate);
+            Client client = new Client(cName, cEmail, cDate);
 
-            Console.WriteLine();
             Console.WriteLine("Enter order data");
             Console.Write("Status: ");
-            OrderStatus oStatus = (OrderStatus)Enum.Parse(typeof(OrderStatus),Console.ReadLine());
+            OrderStatus oStatus = (OrderStatus)Enum.Parse(typeof(OrderStatus), Console.ReadLine());
 
-            Console.Write("How many itens to this order? ");
-            int iOrder = int.Parse(Console.ReadLine());
+            Console.Write("How many items to this order? ");
+            int n = int.Parse(Console.ReadLine());
+            DateTime dateOrder = DateTime.Now();
+            Order order = new Order(dateOrder, oStatus, client);
 
-            DateTime mOrder = DateTime.Now();
-            Order Ord = new Order(mOrder, oStatus);
-
-            for (int i = 1; i <= iOrder; i++)
+            for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine();
-                Console.Write($"Enter #{i} product data");
+                Console.WriteLine($"Enther #{i} item data");
                 Console.Write("Product name: ");
                 string pName = Console.ReadLine();
 
@@ -110,21 +107,15 @@ namespace ExerciciosEnumEConst
                 double pPrice = double.Parse(Console.ReadLine());
 
                 Console.Write("Quantity: ");
-                int pQuantity = int.Parse(Console.ReadLine());
+                int quantity = int.Parse(Console.ReadLine());
+
                 Product product = new Product(pName, pPrice);
-                OrderItem OItem = new OrderItem(pQuantity, product);
-                Ord.AddItem(OItem);
+                OrderItem oItem = new OrderItem(quantity, product);
+                order.AddItem(oItem);
             }
+
             
-            Console.WriteLine("ORDER SUMMARY");
-            Console.WriteLine($"Order moment: {mOrder}\n" +
-                $"Order status: {oStatus}");
-            Console.WriteLine($"Client: {Client}");
-            Console.WriteLine("Order items: ");
-            foreach (Order o in Ord)
-            {
-                Console.WriteLine(Ord);
-            }
+
             Console.ReadLine();
         }
     }

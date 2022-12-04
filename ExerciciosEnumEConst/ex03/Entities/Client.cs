@@ -16,18 +16,13 @@ namespace ExerciciosEnumEConst.ex03.Entities
         {
         }
 
-        public Client(string name, string email, DateTime dateTime)
+        public Client(string name, string email, DateTime birthDate)
         {
             Name = name;
             Email = email;
-            BirthDate = dateTime;
+            BirthDate = birthDate;
         }
 
-        public override string ToString()
-        {
-            StringBuilder sBuild = new StringBuilder();
-            sBuild.Append($"{Name} ({BirthDate.ToString("dd/MM/yyyy")}) - {Email}");
-            return sBuild.ToString();
-        }
+        
     }
 }
