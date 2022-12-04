@@ -1,0 +1,8 @@
+C:\Users\Mauricio Lopes\Documents\projetos\CursoCSharp\ExerciciosEnumEConst\bin\Debug\ExerciciosEnumEConst.exe.config
+C:\Users\Mauricio Lopes\Documents\projetos\CursoCSharp\ExerciciosEnumEConst\bin\Debug\ExerciciosEnumEConst.exe
+C:\Users\Mauricio Lopes\Documents\projetos\CursoCSharp\ExerciciosEnumEConst\bin\Debug\ExerciciosEnumEConst.pdb
+C:\Users\Mauricio Lopes\Documents\projetos\CursoCSharp\ExerciciosEnumEConst\obj\Debug\ExerciciosEnumEConst.csproj.AssemblyReference.cache
+C:\Users\Mauricio Lopes\Documents\projetos\CursoCSharp\ExerciciosEnumEConst\obj\Debug\ExerciciosEnumEConst.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mauricio Lopes\Documents\projetos\CursoCSharp\ExerciciosEnumEConst\obj\Debug\ExerciciosEnumEConst.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio Lopes\Documents\projetos\CursoCSharp\ExerciciosEnumEConst\obj\Debug\ExerciciosEnumEConst.exe
+C:\Users\Mauricio Lopes\Documents\projetos\CursoCSharp\ExerciciosEnumEConst\obj\Debug\ExerciciosEnumEConst.pdb
